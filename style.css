@@ -1,0 +1,49 @@
+.copy_right_footer{
+    position: fixed;
+    color: skyblue;
+    text-align: center;
+    background-color: white;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    font-size: 20px;
+    box-shadow: 8px 8px 15px gray;
+    background-color: gray;
+}
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+.note{
+    font-size: 15px;
+    color: black;
+}
+body{
+    background-size: cover;
+}
+.div_speed{
+    float: left;
+}
+.div_speed_image{
+    width: 200px;
+    border-radius: 100px;
+}
+#speed,#volume{
+    font-size: 23px;
+    margin: 15px;
+}
+.div_volume{
+    float: right;
+}
+.play_button{
+    width: 200px;
+    margin: 20px;
+    font-size: 25px;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    margin-top: 150px;
+  
+}
